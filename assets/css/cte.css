@@ -1,3 +1,4 @@
+Click To Enter CSS file
 .button {
   background-color: #4CAF50; /* Green */
   border: none;
@@ -10,9 +11,6 @@
   margin: 4px 2px;
   cursor: pointer;
 }
-
-Click To Enter CSS file
-*/
 
 .unclicked {
   filter: blur(4px);
